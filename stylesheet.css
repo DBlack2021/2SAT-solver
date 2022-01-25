@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.input {
+  width: 100%;
+}
+
+.submit {
+  width: 25%;
+  
+}
+
+.interaction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
